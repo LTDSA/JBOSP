@@ -10,6 +10,6 @@ I'm not a famous person, I just a student in a middle school in CHINA(Yeah, that
 
 #### Where's the download link?
 
-Emmm...I think you can build one by yourself with the codes, but I also give you the link: http://www.coolapk.com/apk/cn.ltdsa.jianbrowser/ and click the button with the text"下载APK".
+Emmm...I think you can build one by yourself with the codes, but I also give you the link: https://www.coolapk.com/apk/cn.ltdsa.jianbrowser/ and click the button with the text"下载APK".
 
 So...That's all of ABOUT. If you want to feedback, just create an issue.
