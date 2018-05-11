@@ -1,3 +1,4 @@
+English | [简体中文](./ABOUT_CN.md)
 # About JianBrowser
 
 #### Why I will develop it?
