@@ -3,7 +3,7 @@ English | [简体中文](./ABOUT_CN.md)
 
 #### Why I will develop it?
 
-In fact, I have a HTC Incredible S with 768MB RAM. You know, that's too small for us at now. And I also have a Amazon Kindle Paperwhite 3, but it runs Android. I let it do that. But you know, its RAM is even  smaller than my HTC. So I think I will do something for them.
+In fact, I have a HTC Incredible S with 768MB RAM. You know, that's too small for us at now. And I also have a Amazon Kindle Paperwhite 3, but it runs Android. I let it do that. But you know, its RAM is even  smaller than my HTC(Only 512MB). So I think I will do something for them.
 
 #### Where's the download link?
 
