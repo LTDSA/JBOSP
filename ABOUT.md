@@ -13,7 +13,7 @@ Emmm...I think you can build one by yourself with the codes, but I also give you
 
 #### What devices it can runs with?
 
-It supports Android 5.0 or newer. You can use Tencent Cloud Legu Service to make it supports Android 2.x(Yeah, it's true).
+It supports Android 5.0 or a newer version. You can use Tencent Cloud Legu Service to make it supports Android 2.x(Yeah, it's true, from 2.x to 8.x).
 
 #### How to let it supports Android 2.x?
 
