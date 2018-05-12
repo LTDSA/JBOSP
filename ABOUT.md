@@ -19,6 +19,6 @@ Sign up Tencent Cloud(DNSPod Account),and also you can sign in with QQ, Wechat o
 
 #### How to make the "Project Files" to a APK?
 
-First, you should download the project files with the button "DOWNLOAD ZIP", and rename the ZIP.
+First, you should download the project files with the button "Clone or Download" and "DOWNLOAD ZIP", and rename the ZIP from "JBOSP-X.X.X-XXX.zip" to "JBOSP-X.X.X-XXX.fas" and then open it in FusionApp. To download FusionApp, click this: https://www.coolapk.com/apk/cn.coldsong.fusionapp , and do the same at download JianBrowser.
 
 So...That's all of ABOUT. If you want to feedback, just create an issue.
